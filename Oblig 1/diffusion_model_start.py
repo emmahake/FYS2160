@@ -13,7 +13,7 @@ DT0 = T20 - T10
 Tmean0 = (T20 + T10) / 2
 
 # Heat capacity ratio top to bottom
-Ctb = 2.3
+Ctb = 2.5
 # Time scale (characteristic time)
 tau = 100
 # Number of heat packets
