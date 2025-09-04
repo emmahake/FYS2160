@@ -15,7 +15,7 @@ Tmean0 = (T20 + T10) / 2
 # Heat capacity ratio top to bottom
 Ctb = 2.5
 # Time scale (characteristic time)
-tau = 100
+tau = 10000000
 # Number of heat packets
 N = 80000 #800
 # end of experiment
